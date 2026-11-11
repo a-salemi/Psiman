@@ -28,7 +28,7 @@
 Run this single command on your Linux server (Ubuntu/Debian) as `root`. The installer will automatically prompt you for your desired **Port**, **Username**, and **Password**.
 
 ```bash
-bash <(curl -s (https://raw.githubusercontent.com/a-salemi/Psiman/main/install.sh))
+bash <(curl -s "https://raw.githubusercontent.com/a-salemi/Psiman/main/install.sh")
 ```
 
 ## 🛠️ Usage
