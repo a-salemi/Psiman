@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐅 PsiMan Enterprise Pro Max
+# 🐅 PsiMan Enterprise Pro
 **The Ultimate Automated Psiphon Node Manager & Web Dashboard**
 
 ![Version](https://img.shields.io/badge/Version-v10.0_Quantum-cyan?style=for-the-badge&logo=python)
